@@ -1,0 +1,6 @@
+package PageObjectModelDemo;
+
+//using page factory
+public class LoginPage2 {
+
+}

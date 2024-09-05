@@ -1,0 +1,11 @@
+package PageObjectModelDemo;
+
+public class LoginWithoutPOM {
+
+	public static void main(String[] args) {
+
+		 System.setProperty("webdriver.driver.chrome", "C:\\Users\\Lenovo\\Downloads\\drivers\\chromedriver-win64\\chromedriver.exe");
+		 Webdriver driver= new ChromeDriver();
+	}
+
+}

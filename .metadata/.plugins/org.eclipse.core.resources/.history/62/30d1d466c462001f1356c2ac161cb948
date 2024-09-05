@@ -1,0 +1,5 @@
+package PageObjectModelDemo;
+
+public class LoginPage {
+
+}

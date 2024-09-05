@@ -1,0 +1,15 @@
+package PageObjectModelDemo;
+
+import org.openqa.selenium.WebDriver;
+
+//using page factory
+public class LoginPage2 {
+	
+	WebDriver driver;
+	LoginPage2(WebDriver d){
+		driver=d;
+	}
+
+	//identify web elements
+	
+}
